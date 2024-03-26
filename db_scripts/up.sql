@@ -1,3 +1,6 @@
+CREATE DATABASE atelier_bd;
+USE atelier_bd;
+
 CREATE TABLE IF NOT EXISTS singer (     singerName varchar(50),
                                         firstName varchar(50),
                                         lastName varchar(50),
